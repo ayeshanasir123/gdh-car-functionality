@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Etihad Airways",
+    "airlineImagePath": "/assets/images/airlines/etihad-airways-image.jpg",
+    "code": "EY"
+  },
+  {
+    "id": 2,
+    "name": "American Airlines",
+    "airlineImagePath": "/assets/images/airlines/american-airline-image.jpg",
+    "code": "AA"
+  },
+  {
+    "id": 3,
+    "name": "British Airways",
+    "airlineImagePath": "/assets/images/airlines/british-airways-image.svg",
+    "code": "BA"
+  },
+  {
+    "id": 4,
+    "name": "Delta Air Lines",
+    "airlineImagePath": "/assets/images/airlines/delta-airlines-image.svg",
+    "code": "DL"
+  },
+  {
+    "id": 5,
+    "name": "Emirates",
+    "airlineImagePath": "/assets/images/airlines/airline-emirates-image.jpg",
+    "code": "EK"
+  },
+  {
+    "id": 6,
+    "name": "Air France",
+    "airlineImagePath": "/assets/images/airlines/air-france-image.svg",
+    "code": "AF"
+  },
+  {
+    "id": 7,
+    "name": "KLM Royal Dutch Airlines",
+    "airlineImagePath": "/assets/images/airlines/klm-image.svg",
+    "code": "KL"
+  },
+  {
+    "id": 8,
+    "name": "Lufthansa",
+    "airlineImagePath": "/assets/images/airlines/lufthansa-image.svg",
+    "code": "LH"
+  },
+  {
+    "id": 9,
+    "name": "Qatar Airways",
+    "airlineImagePath": "/assets/images/airlines/airline-qatar-airways-image.jpg",
+    "code": "QR"
+  },
+  {
+    "id": 10,
+    "name": "Singapore Airlines",
+    "airlineImagePath": "/assets/images/airlines/singapore-airlines-image.svg",
+    "code": "SQ"
+  },
+  {
+    "id": 11,
+    "name": "Turkish Airlines",
+    "airlineImagePath": "/assets/images/airlines/turkish-airlines-image.svg",
+    "code": "TK"
+  },
+  {
+    "id": 12,
+    "name": "United Airlines",
+    "airlineImagePath": "/assets/images/airlines/united-airlines-image.svg",
+    "code": "UA"
+  },
+  {
+    "id": 13,
+    "name": "Cathay Pacific",
+    "airlineImagePath": "/assets/images/airlines/cathay-pacific-image.svg",
+    "code": "CX"
+  },
+  {
+    "id": 14,
+    "name": "Japan Airlines",
+    "airlineImagePath": "/assets/images/airlines/japan-airlines-image.svg",
+    "code": "JL"
+  },
+  {
+    "id": 15,
+    "name": "Swiss International Air Lines",
+    "airlineImagePath": "/assets/images/airlines/swiss-airlines-image.svg",
+    "code": "LX"
+  },
+  {
+    "id": 16,
+    "name": "Austrian Airlines",
+    "airlineImagePath": "/assets/images/airlines/austrian-airlines-image.jpg",
+    "code": "OS"
+  },
+  {
+    "id": 17,
+    "name": "Qantas",
+    "airlineImagePath": "/assets/images/airlines/qantas-airlines-image.svg",
+    "code": "QF"
+  },
+  {
+    "id": 18,
+    "name": "Southwest Airlines",
+    "airlineImagePath": "/assets/images/airlines/southwest-airlines-image.svg",
+    "code": "WN"
+  },
+  {
+    "id": 19,
+    "name": "Alaska Airlines",
+    "airlineImagePath": "/assets/images/airlines/alaska-airlines-image.svg",
+    "code": "AS"
+  },
+  {
+    "id": 20,
+    "name": "Aeroflot",
+    "airlineImagePath": "/assets/images/airlines/aeroflot-russian-airlines-image.svg",
+    "code": "SU"
+  }
+]
